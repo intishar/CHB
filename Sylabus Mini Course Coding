@@ -3,19 +3,18 @@ From Zero to Billion With Blockchain Developer
 
 
 GOALS : 
-•	Memberikan ruang pelatihan bagi para programmer pemula atau yang baru berminat di dunia programming untuk menjadi programmer blockhain
+•	Providing training space for beginner programmers or those who are just interested in the world of programming to become blockhain programmers
 •	Building Cardano Community Blockchain Bandung
 
 
 Target Peserta :
-•	Siswa SMA 
-•	Mahasiswa 
+•	Student Highschool 
+•	College Student 
 
 PROJECT MILESTONES :
 
 Milestone 1 – Bridging :
-Objective  : Memperkenalkan tentang program cardano dan memulai membangun komunitas yang akan dilatih untuk menjadi programmer blockhain
-
+Objective  : Introducing the Cardano program and starting to build a community that will be trained to become blockchain programmers
 Month 1 
 
 a.	Building Cardano Developer Community Bandung
@@ -25,13 +24,13 @@ d.	Opening Blockchain Online / Offline Training
 e.	Create wallet account
 
 Output :
-a.	Memperkenalkan program dan benefit yang akan didapatkan oleh peserta
-b.	Increase number pengguna wallet account yang akan dihubungkan dengan cardano
+a.	Introducing the program and benefits that participants will get
+b.	Increase number of wallet cardano users
 
 Media : Offline Seminar / Online Seminar
 
 Milestone 2 – Fundamental Programming Base :
-Objective : Mengajarkan basic – basic programing dan tentang blockhain system
+Objective : Teaches the basics of programming and about blockchain systems
 Month 2
 a.	Introduce Fundamental Blockchain System
 •	Introduction Blockchain & Cryptocurrency
@@ -49,7 +48,7 @@ b.	Introduce Fundamental Programming
 •	 Logical Thinking  (basic logical about programming : algoritma, database relation)
 •	 Database creation
 •	Repo Hosting Service (Git , Github, GitLab)
-Output : Peserta dapat mengerti tentang logic pembuatan sistem / aplikasi
+Output : Participants can understand the logic of creating systems or applications
 
 Media : Online Training
 
@@ -57,7 +56,7 @@ Resource :
 https://www.codecademy.com/learn/learn-how-to-code/modules/bop-i/cheatsheet 
 
 Milestone 3 – Learning Programming Language (Basic) :
-Objective : memulai pembelajaran pemograman dasar dengan Bahasa pemograman yang menunjang untuk blockhain cardano
+Objective :  Start learning basic programming with a programming language that supports the Cardano blockchain
 
 Month 3 – 8
 a.	HTML + CSS
@@ -66,14 +65,14 @@ c.	Phyton (Basic)
 d.	GoLang (Basic)
 
 Output :
-a.	Peserta mengenal masing-masing Bahasa pemograman yang akan digunakan untuk project blockchain. 
-b.	Level : pembuatan website sederhana
+a.	Participants get to know each programming language that will be used for blockchain projects.
+b.	Level : Simple website creation
 
 Media : Online Training
 
 
 Milestone 4 – Brigding Topic To Blockchain 1 :
-Objective : Pembelajaran tentang teknis untuk pemograman blockhain
+Objective : Learning about techniques for blockchain programming
 Month : 9
 a.	Blockhain Knowledge (Decentralization)
 b.	Plutus
@@ -83,8 +82,8 @@ e.	Demeter.run
 f.	Gimbalabs PPBL
 
 Output :
-a.	Peserta mengenal masing-masing sistem block chain 
-b.	Level : pembuatan blockchain sederhana
+a.	Participants get to know each block chain system
+b.	Level : simple blockchain creation
 
 
 Media : Online Training
